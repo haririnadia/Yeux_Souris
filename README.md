@@ -1,1 +1,1 @@
-# YEUX QUI SUIVENT LA SOURIS# Yeux qui suivent la souris
+Yeux qui suivent la souris
